@@ -123,7 +123,7 @@ it, simply add the following line to your Podfile:
 pod 'FMDBMigrationManager', :git => 'https://github.com/c-shen/FMDBMigrationManager.git'
 ```
 **Note**: Fork of *c-shen* has no Release tag so it's impossible to run podspec validation using it. 
-Use this for instead
+Use this fork instead
 
 ```ruby
 pod 'FMDBMigrationManager', :git => 'https://github.com/schmidt9/FMDBMigrationManager.git'

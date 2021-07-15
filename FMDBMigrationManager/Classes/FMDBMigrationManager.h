@@ -18,8 +18,8 @@
 //  limitations under the License.
 //
 
-#import <fmdb/FMDatabase.h>
-#import <fmdb/FMDatabaseQueue.h>
+#import "fmdb/FMDatabase.h"
+#import "fmdb/FMDatabaseQueue.h"
 
 @protocol FMDBMigrating;
 
